@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/car-map/static/css/main.ff0b99f2.css",
+    "main.js": "/car-map/static/js/main.77569a3a.js",
+    "static/js/483.f52ae74e.chunk.js": "/car-map/static/js/483.f52ae74e.chunk.js",
+    "static/media/waka-kotahi.png": "/car-map/static/media/waka-kotahi.500bea7274e60d10c87e.png",
+    "static/media/stantec.svg": "/car-map/static/media/stantec.d8032f6eec2e08b9db0d8c23a146379f.svg",
+    "index.html": "/car-map/index.html",
+    "main.ff0b99f2.css.map": "/car-map/static/css/main.ff0b99f2.css.map",
+    "main.77569a3a.js.map": "/car-map/static/js/main.77569a3a.js.map",
+    "483.f52ae74e.chunk.js.map": "/car-map/static/js/483.f52ae74e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0b99f2.css",
+    "static/js/main.77569a3a.js"
+  ]
+}
